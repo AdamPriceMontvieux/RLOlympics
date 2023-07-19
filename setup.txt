@@ -1,0 +1,2 @@
+conda create -n rlolympics python=3.9
+pip install "ray[rllib]"==2.5.1

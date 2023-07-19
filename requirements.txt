@@ -1,0 +1,7 @@
+bsuite
+ipykernel
+tensorflow_probability
+torch
+gym==0.26
+numpy==1.24.*
+pandas==1.2.4
